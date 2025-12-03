@@ -30,7 +30,7 @@ Nenhum dado real ou sensível foi utilizado neste ambiente de desenvolvimento.
 
 ### 🛠️ Tecnologias Utilizadas
 
-* **Core:** [Sua linguagem aqui, ex: Java / C#]
+* **Core:** [Java]
 * **Frontend:** HTML5 / CSS3 (Interface Web Responsiva)
 * **Database:** SQL (Estrutura Relacional)
 
